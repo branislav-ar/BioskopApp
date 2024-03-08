@@ -1,0 +1,451 @@
+/* Importovanje fonta cele stranice */
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700;900&display=swap');
+
+:root {
+    --grey1: #777;
+    --grey2: #555;
+    --greyBG: #f1f1f1;
+    --greyBG_opacy: rgba(85, 85, 85, 0.5);
+    --white: #FFFFFF;
+
+    --blue: #6fb3b8;
+    --yellow: #B08401;
+    --orange: #ff725e;
+}
+
+*{
+    font-family: 'Lato', sans-serif;
+    margin:0; 
+    padding:0;
+    box-sizing: border-box;
+    
+    text-decoration: none;
+    border: none;
+    outline: none;
+    
+    /* text-transform: capitalize; */
+    transition: all .2s linear;
+}
+
+body {
+    min-height: 100vh;
+    background: url(/Client/IMG/popcorn_bg.jpg);
+    background-attachment: fixed;
+}
+
+.alert {
+    font-size: 1rem;
+}
+
+.kontejnerBioskop {
+    display: flex;
+    flex-direction: column;
+}
+
+.divNazivaBioskopa {
+
+    /*background-color: var(--greyBG); */
+    background-color: var(--greyBG_opacy);
+    padding: 0.7rem;
+    margin-top: 1rem;
+    text-align: center;
+}
+
+.nazivBioskopa {
+    font-size: 1.3rem;
+    /*color: var(--grey2);*/
+    color: var(--white);
+    margin: 1rem;
+    font-weight: 620;
+    opacity: 1;
+}
+
+.divMiniKontejner {
+    display: flex;
+    flex-direction: row;
+
+    margin: 0.6rem;
+    /*padding: 1rem;*/
+}
+
+.kontejnerFormeBioskopaDIV {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    /*flex: 1 1 15rem;*/
+
+    flex-shrink: 1;
+    min-width: 20rem;
+
+    margin: 0.2rem;
+    padding: 0.5rem;
+    background-color: var(--greyBG_opacy);
+}
+
+.kontejnerGrupeSala_big {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    /* justify-content: center;
+    align-content: center; */
+
+    flex-shrink: 1;
+    min-width: 20rem;
+
+    margin: 0.2rem;
+    padding: 0.5rem;
+    background-color: var(--greyBG_opacy);
+
+}
+
+.naslovForme {
+    font-size: 1.5rem;
+    color: var(--white);
+    align-self: center;
+    font-weight: 600;
+}
+
+.naslovForme_DIV, .sel_DIV {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    
+    margin-left: 2rem;
+    margin-right: 2rem;
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+
+    background: rgba(0, 0, 0, 0.1);
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+
+[class*="stavkeSelect"] {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+
+    margin-top: 0.3rem;
+    margin-bottom: 0.3rem;
+    padding-top: 0.1rem;
+    padding-bottom: 0.1rem;
+
+    width: 100%;
+}
+
+.stavkaFormaBioskopa {
+    margin-top: 0.3rem;
+    margin-bottom: 0.3rem;
+    padding-top: 0.1rem;
+    padding-bottom: 0.1rem;
+    color: #333;
+    font-size: 1rem;
+}
+
+.formaLabele_Unos_Dugme {
+    display: flex;
+    flex-direction: column;
+
+}
+
+.lab_inputDIV {
+    display: flex;
+    flex-direction: row;
+    margin: 0.4rem;
+}
+
+.lab_DIV {
+    display: flex;
+    flex-direction: column;
+    margin: 0.1rem;
+    flex: 1 1 auto;
+}
+
+.input_DIV {
+    display: flex;
+    flex-direction: column;
+    margin: 0.1rem;
+    flex: 1 1 10rem;
+}
+
+.formaInput {
+    /*margin: 0.3rem;
+    font-size: 1.2rem;
+    */
+    height: 2.1rem;
+    width: 100%;
+    color: #333;
+    font-size: 0.9rem;
+    margin-top: 0.3rem;
+    margin-bottom: 0.3rem;
+    padding: 0.3rem;
+    padding-left: 0.3rem;
+    border-bottom: .2rem solid rgba(0, 0, 0, .3);
+    text-transform: none;
+    background: #fff;
+    
+}
+
+.formaInput:focus, .formaInput:hover {
+    border-bottom: .2rem solid var(--orange);
+}
+
+.formaLabela {
+    margin-left: 0.4rem;
+    margin-right: 0.4rem;
+    margin-top: 0.7rem;
+    margin-bottom: 0.7rem;
+    font-size: 1.1rem;
+    color: var(--white);
+}
+
+.btn_DIV {
+    display: flex;
+    justify-content: center;
+    margin-top: 0.05rem;
+    margin-bottom: 0.05rem;
+    margin-left: 2rem;
+    margin-right: 2rem;
+}
+
+/* dugme logika */
+
+.dugme {
+    width: 100%;
+
+    font-size: 0.9rem;
+    padding: .5rem .5rem;
+    background: var(--white);
+    color: var(--grey1);
+    
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+    margin-left: 0.3rem;
+    margin-right: 0.3rem;
+    border-radius: 4px;
+    border-bottom: .2rem solid transparent;
+    font-weight: bold;
+}
+
+.dugme:hover {
+    border-bottom: .2rem solid var(--orange);
+    color: var(--orange);
+    cursor: pointer;
+}
+
+.kontejnerGrupeSala {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.kontejnerLegenda {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    list-style: none;
+}
+
+.sediste_legenda {
+    background-color: #444451;
+    height: 12px;
+    width: 15px;
+    margin: 3px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.sediste_legenda.odabrano {
+    background-color: var(--white);
+}
+
+.sediste_legenda.zauzeto {
+    background-color: var(--orange);
+}
+
+.ul_legenda {
+    background: rgba(0, 0, 0, 0.1);
+    padding: 5px 10px;
+    border-radius: 5px;
+    color: var(--white);
+    list-style-type: none;
+    display: flex;
+    justify-content: space-around;
+}
+
+.li_legenda {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 10px 10px;
+}
+
+.sedisteNatpis_legenda {
+    margin-left: 4px;
+}
+
+.kontejnerSala {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 27rem;
+
+    flex-basis: 27rem;
+
+    background: rgba(0, 0, 0, 0.1);
+    padding: 10px 20px;
+    margin: 1rem;
+    border-radius: 5px;
+}
+
+.kontejnerSalaNaziv {
+    display: flex;
+    justify-content: center;
+    margin: 0.3rem;
+}
+
+.kontejnerSalaNaziv_lab {
+    font-size: 0.9rem;
+    color: var(--white);
+}
+
+.formaSale {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    margin: 1rem 0.5rem;
+}
+
+.formaSalelabDiv {
+    display: flex;
+    flex-direction: column;
+
+    margin: 0.1rem;
+    flex: 1 1 auto;
+    
+}
+
+.formaSaleinputDiv {
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.selectLabela {
+    margin-left: 0.4rem;
+    margin-right: 0.4rem;
+    margin-top: 0.45rem;
+    margin-bottom: 0.45rem;
+
+    font-size: 1rem;
+    color: var(--white);
+}
+
+.selectInput {
+    
+    margin-left: 0.4rem;
+    margin-right: 0.4rem;
+    margin-top: 0.3rem;
+    margin-bottom: 0.3rem;
+
+    font-size: 1rem;
+    
+    width: 180px;
+	height: 25px;
+
+	cursor: pointer;
+	background-color: white;
+	box-shadow: 0 2px 0 white;
+	border-radius: 2px;
+}
+
+.stavkaUSali {
+    transition: all 250ms cubic-bezier(.4,.25,.3,1);
+	display: block;
+	height: 0;
+	font-size: 0.9rem;
+	line-height: 40px;
+	overflow: hidden;
+	color: #3e3e3e;
+	background-color: #fff;
+	cursor: pointer;
+	padding-left: 50px;
+}
+
+.infoDiv {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+
+    background: rgba(0, 0, 0, 0.1);
+    padding: 5px 10px;
+    border-radius: 5px;
+
+    margin: 1rem 0.5rem;
+    text-align: justify;
+    
+}
+
+[class*="labelTekst"] {
+    text-align: center;
+    font-size: 0.8rem;
+    color: var(--white);
+    margin: 0.5rem 0.2rem;
+}
+
+.divDugmetaSala {
+    display: flex;
+    justify-content: center;
+    margin: 0.2rem 0.1rem;
+}
+
+.dugme.sala {
+    font-size: 0.8rem;
+    margin: 0.1rem 0.4rem;
+    padding: 0.4rem;
+    flex-grow: 1;
+}
+
+@media (max-width:900px) {
+    .html {
+        max-width: 400px;
+        max-height: 700px;
+    }
+    .divMiniKontejner {
+        flex-direction: row;
+        flex-wrap: wrap;
+    }
+    .lab_inputDIV {
+        margin-left: 2rem;
+        margin-right: 2rem;
+    }
+    .kontejnerFormeBioskopaDIV {
+        width: 100%;
+    }
+    .dugme {
+        width: 100%;
+    }
+
+    .formaSale {
+        flex-wrap: wrap;
+    }
+    .selectLabela {
+        text-align: center;
+    }
+    .selectInput {
+        text-align: center;
+    }
+
+    .divDugmetaSala {
+            flex-direction: column;
+    }
+}
+
+@media (max-width:400px) {
+    .formaLabela {
+        text-align: center;
+    }
+}
+

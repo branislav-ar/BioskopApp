@@ -1,0 +1,166 @@
+E:\(4) Elfak\III godina\SEM1\03 WEB programiranje\WEB\WEB projekat\Server\bin\Debug\netcoreapp3.0\appsettings.Development.json
+E:\(4) Elfak\III godina\SEM1\03 WEB programiranje\WEB\WEB projekat\Server\bin\Debug\netcoreapp3.0\appsettings.json
+E:\(4) Elfak\III godina\SEM1\03 WEB programiranje\WEB\WEB projekat\Server\bin\Debug\netcoreapp3.0\Server.exe
+E:\(4) Elfak\III godina\SEM1\03 WEB programiranje\WEB\WEB projekat\Server\bin\Debug\netcoreapp3.0\Server.deps.json
+E:\(4) Elfak\III godina\SEM1\03 WEB programiranje\WEB\WEB projekat\Server\bin\Debug\netcoreapp3.0\Server.runtimeconfig.json
+E:\(4) Elfak\III godina\SEM1\03 WEB programiranje\WEB\WEB projekat\Server\bin\Debug\netcoreapp3.0\Server.runtimeconfig.dev.json
+E:\(4) Elfak\III godina\SEM1\03 WEB programiranje\WEB\WEB projekat\Server\bin\Debug\netcoreapp3.0\Server.dll
+E:\(4) Elfak\III godina\SEM1\03 WEB programiranje\WEB\WEB projekat\Server\bin\Debug\netcoreapp3.0\Server.pdb
+E:\(4) Elfak\III godina\SEM1\03 WEB programiranje\WEB\WEB projekat\Server\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+E:\(4) Elfak\III godina\SEM1\03 WEB programiranje\WEB\WEB projekat\Server\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+E:\(4) Elfak\III godina\SEM1\03 WEB programiranje\WEB\WEB projekat\Server\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\(4) Elfak\III godina\SEM1\03 WEB programiranje\WEB\WEB projekat\Server\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\(4) Elfak\III godina\SEM1\03 WEB programiranje\WEB\WEB projekat\Server\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\(4) Elfak\III godina\SEM1\03 WEB programiranje\WEB\WEB projekat\Server\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\(4) Elfak\III godina\SEM1\03 WEB programiranje\WEB\WEB projekat\Server\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Memory.dll
+E:\(4) Elfak\III godina\SEM1\03 WEB programiranje\WEB\WEB projekat\Server\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\(4) Elfak\III godina\SEM1\03 WEB programiranje\WEB\WEB projekat\Server\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.dll
+E:\(4) Elfak\III godina\SEM1\03 WEB programiranje\WEB\WEB projekat\Server\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\(4) Elfak\III godina\SEM1\03 WEB programiranje\WEB\WEB projekat\Server\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.dll
+E:\(4) Elfak\III godina\SEM1\03 WEB programiranje\WEB\WEB projekat\Server\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\(4) Elfak\III godina\SEM1\03 WEB programiranje\WEB\WEB projekat\Server\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Options.dll
+E:\(4) Elfak\III godina\SEM1\03 WEB programiranje\WEB\WEB projekat\Server\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+E:\(4) Elfak\III godina\SEM1\03 WEB programiranje\WEB\WEB projekat\Server\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+E:\(4) Elfak\III godina\SEM1\03 WEB programiranje\WEB\WEB projekat\Server\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\(4) Elfak\III godina\SEM1\03 WEB programiranje\WEB\WEB projekat\Server\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Logging.dll
+E:\(4) Elfak\III godina\SEM1\03 WEB programiranje\WEB\WEB projekat\Server\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Protocols.dll
+E:\(4) Elfak\III godina\SEM1\03 WEB programiranje\WEB\WEB projekat\Server\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\(4) Elfak\III godina\SEM1\03 WEB programiranje\WEB\WEB projekat\Server\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Tokens.dll
+E:\(4) Elfak\III godina\SEM1\03 WEB programiranje\WEB\WEB projekat\Server\bin\Debug\netcoreapp3.0\Microsoft.Win32.Registry.dll
+E:\(4) Elfak\III godina\SEM1\03 WEB programiranje\WEB\WEB projekat\Server\bin\Debug\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\(4) Elfak\III godina\SEM1\03 WEB programiranje\WEB\WEB projekat\Server\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+E:\(4) Elfak\III godina\SEM1\03 WEB programiranje\WEB\WEB projekat\Server\bin\Debug\netcoreapp3.0\System.Collections.Immutable.dll
+E:\(4) Elfak\III godina\SEM1\03 WEB programiranje\WEB\WEB projekat\Server\bin\Debug\netcoreapp3.0\System.ComponentModel.Annotations.dll
+E:\(4) Elfak\III godina\SEM1\03 WEB programiranje\WEB\WEB projekat\Server\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+E:\(4) Elfak\III godina\SEM1\03 WEB programiranje\WEB\WEB projekat\Server\bin\Debug\netcoreapp3.0\System.Diagnostics.DiagnosticSource.dll
+E:\(4) Elfak\III godina\SEM1\03 WEB programiranje\WEB\WEB projekat\Server\bin\Debug\netcoreapp3.0\System.Drawing.Common.dll
+E:\(4) Elfak\III godina\SEM1\03 WEB programiranje\WEB\WEB projekat\Server\bin\Debug\netcoreapp3.0\System.IdentityModel.Tokens.Jwt.dll
+E:\(4) Elfak\III godina\SEM1\03 WEB programiranje\WEB\WEB projekat\Server\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+E:\(4) Elfak\III godina\SEM1\03 WEB programiranje\WEB\WEB projekat\Server\bin\Debug\netcoreapp3.0\System.Runtime.CompilerServices.Unsafe.dll
+E:\(4) Elfak\III godina\SEM1\03 WEB programiranje\WEB\WEB projekat\Server\bin\Debug\netcoreapp3.0\System.Security.AccessControl.dll
+E:\(4) Elfak\III godina\SEM1\03 WEB programiranje\WEB\WEB projekat\Server\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+E:\(4) Elfak\III godina\SEM1\03 WEB programiranje\WEB\WEB projekat\Server\bin\Debug\netcoreapp3.0\System.Security.Permissions.dll
+E:\(4) Elfak\III godina\SEM1\03 WEB programiranje\WEB\WEB projekat\Server\bin\Debug\netcoreapp3.0\System.Security.Principal.Windows.dll
+E:\(4) Elfak\III godina\SEM1\03 WEB programiranje\WEB\WEB projekat\Server\bin\Debug\netcoreapp3.0\System.Text.Encoding.CodePages.dll
+E:\(4) Elfak\III godina\SEM1\03 WEB programiranje\WEB\WEB projekat\Server\bin\Debug\netcoreapp3.0\System.Windows.Extensions.dll
+E:\(4) Elfak\III godina\SEM1\03 WEB programiranje\WEB\WEB projekat\Server\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\(4) Elfak\III godina\SEM1\03 WEB programiranje\WEB\WEB projekat\Server\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\(4) Elfak\III godina\SEM1\03 WEB programiranje\WEB\WEB projekat\Server\bin\Debug\netcoreapp3.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\(4) Elfak\III godina\SEM1\03 WEB programiranje\WEB\WEB projekat\Server\bin\Debug\netcoreapp3.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\(4) Elfak\III godina\SEM1\03 WEB programiranje\WEB\WEB projekat\Server\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\(4) Elfak\III godina\SEM1\03 WEB programiranje\WEB\WEB projekat\Server\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\(4) Elfak\III godina\SEM1\03 WEB programiranje\WEB\WEB projekat\Server\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\(4) Elfak\III godina\SEM1\03 WEB programiranje\WEB\WEB projekat\Server\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\(4) Elfak\III godina\SEM1\03 WEB programiranje\WEB\WEB projekat\Server\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\(4) Elfak\III godina\SEM1\03 WEB programiranje\WEB\WEB projekat\Server\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\(4) Elfak\III godina\SEM1\03 WEB programiranje\WEB\WEB projekat\Server\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+E:\(4) Elfak\III godina\SEM1\03 WEB programiranje\WEB\WEB projekat\Server\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+E:\(4) Elfak\III godina\SEM1\03 WEB programiranje\WEB\WEB projekat\Server\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\(4) Elfak\III godina\SEM1\03 WEB programiranje\WEB\WEB projekat\Server\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\(4) Elfak\III godina\SEM1\03 WEB programiranje\WEB\WEB projekat\Server\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\(4) Elfak\III godina\SEM1\03 WEB programiranje\WEB\WEB projekat\Server\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\(4) Elfak\III godina\SEM1\03 WEB programiranje\WEB\WEB projekat\Server\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+E:\(4) Elfak\III godina\SEM1\03 WEB programiranje\WEB\WEB projekat\Server\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\(4) Elfak\III godina\SEM1\03 WEB programiranje\WEB\WEB projekat\Server\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+E:\(4) Elfak\III godina\SEM1\03 WEB programiranje\WEB\WEB projekat\Server\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+E:\(4) Elfak\III godina\SEM1\03 WEB programiranje\WEB\WEB projekat\Server\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+E:\(4) Elfak\III godina\SEM1\03 WEB programiranje\WEB\WEB projekat\Server\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\(4) Elfak\III godina\SEM1\03 WEB programiranje\WEB\WEB projekat\Server\obj\Debug\netcoreapp3.0\Server.csproj.AssemblyReference.cache
+E:\(4) Elfak\III godina\SEM1\03 WEB programiranje\WEB\WEB projekat\Server\obj\Debug\netcoreapp3.0\Server.GeneratedMSBuildEditorConfig.editorconfig
+E:\(4) Elfak\III godina\SEM1\03 WEB programiranje\WEB\WEB projekat\Server\obj\Debug\netcoreapp3.0\Server.AssemblyInfoInputs.cache
+E:\(4) Elfak\III godina\SEM1\03 WEB programiranje\WEB\WEB projekat\Server\obj\Debug\netcoreapp3.0\Server.AssemblyInfo.cs
+E:\(4) Elfak\III godina\SEM1\03 WEB programiranje\WEB\WEB projekat\Server\obj\Debug\netcoreapp3.0\Server.csproj.CoreCompileInputs.cache
+E:\(4) Elfak\III godina\SEM1\03 WEB programiranje\WEB\WEB projekat\Server\obj\Debug\netcoreapp3.0\Server.MvcApplicationPartsAssemblyInfo.cache
+E:\(4) Elfak\III godina\SEM1\03 WEB programiranje\WEB\WEB projekat\Server\obj\Debug\netcoreapp3.0\staticwebassets\Server.StaticWebAssets.Manifest.cache
+E:\(4) Elfak\III godina\SEM1\03 WEB programiranje\WEB\WEB projekat\Server\obj\Debug\netcoreapp3.0\staticwebassets\Server.StaticWebAssets.xml
+E:\(4) Elfak\III godina\SEM1\03 WEB programiranje\WEB\WEB projekat\Server\obj\Debug\netcoreapp3.0\scopedcss\bundle\Server.styles.css
+E:\(4) Elfak\III godina\SEM1\03 WEB programiranje\WEB\WEB projekat\Server\obj\Debug\netcoreapp3.0\Server.RazorTargetAssemblyInfo.cache
+E:\(4) Elfak\III godina\SEM1\03 WEB programiranje\WEB\WEB projekat\Server\obj\Debug\netcoreapp3.0\Server.dll
+E:\(4) Elfak\III godina\SEM1\03 WEB programiranje\WEB\WEB projekat\Server\obj\Debug\netcoreapp3.0\Server.pdb
+E:\(4) Elfak\III godina\SEM1\03 WEB programiranje\WEB\WEB projekat\Server\obj\Debug\netcoreapp3.0\Server.genruntimeconfig.cache
+E:\(4) Elfak\III godina\SEM1\03 WEB programiranje\WEB\WEB projekat\Server\bin\Debug\netcoreapp3.0\Humanizer.dll
+E:\(4) Elfak\III godina\SEM1\03 WEB programiranje\WEB\WEB projekat\Server\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\(4) Elfak\III godina\SEM1\03 WEB programiranje\WEB\WEB projekat\Server\obj\Debug\netcoreapp3.0\Server.csproj.CopyComplete
+C:\Users\Bane\Desktop\WEB projekat final_v1 - Copy\Server\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\Bane\Desktop\WEB projekat final_v1 - Copy\Server\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\Bane\Desktop\WEB projekat final_v1 - Copy\Server\bin\Debug\netcoreapp3.0\Server.exe
+C:\Users\Bane\Desktop\WEB projekat final_v1 - Copy\Server\bin\Debug\netcoreapp3.0\Server.deps.json
+C:\Users\Bane\Desktop\WEB projekat final_v1 - Copy\Server\bin\Debug\netcoreapp3.0\Server.runtimeconfig.json
+C:\Users\Bane\Desktop\WEB projekat final_v1 - Copy\Server\bin\Debug\netcoreapp3.0\Server.runtimeconfig.dev.json
+C:\Users\Bane\Desktop\WEB projekat final_v1 - Copy\Server\bin\Debug\netcoreapp3.0\Server.dll
+C:\Users\Bane\Desktop\WEB projekat final_v1 - Copy\Server\bin\Debug\netcoreapp3.0\Server.pdb
+C:\Users\Bane\Desktop\WEB projekat final_v1 - Copy\Server\bin\Debug\netcoreapp3.0\Humanizer.dll
+C:\Users\Bane\Desktop\WEB projekat final_v1 - Copy\Server\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+C:\Users\Bane\Desktop\WEB projekat final_v1 - Copy\Server\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Bane\Desktop\WEB projekat final_v1 - Copy\Server\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Bane\Desktop\WEB projekat final_v1 - Copy\Server\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Bane\Desktop\WEB projekat final_v1 - Copy\Server\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Bane\Desktop\WEB projekat final_v1 - Copy\Server\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Bane\Desktop\WEB projekat final_v1 - Copy\Server\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Bane\Desktop\WEB projekat final_v1 - Copy\Server\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Bane\Desktop\WEB projekat final_v1 - Copy\Server\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Bane\Desktop\WEB projekat final_v1 - Copy\Server\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Bane\Desktop\WEB projekat final_v1 - Copy\Server\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Bane\Desktop\WEB projekat final_v1 - Copy\Server\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.dll
+C:\Users\Bane\Desktop\WEB projekat final_v1 - Copy\Server\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Bane\Desktop\WEB projekat final_v1 - Copy\Server\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Options.dll
+C:\Users\Bane\Desktop\WEB projekat final_v1 - Copy\Server\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Bane\Desktop\WEB projekat final_v1 - Copy\Server\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+C:\Users\Bane\Desktop\WEB projekat final_v1 - Copy\Server\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Bane\Desktop\WEB projekat final_v1 - Copy\Server\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Bane\Desktop\WEB projekat final_v1 - Copy\Server\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Bane\Desktop\WEB projekat final_v1 - Copy\Server\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Bane\Desktop\WEB projekat final_v1 - Copy\Server\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Bane\Desktop\WEB projekat final_v1 - Copy\Server\bin\Debug\netcoreapp3.0\Microsoft.Win32.Registry.dll
+C:\Users\Bane\Desktop\WEB projekat final_v1 - Copy\Server\bin\Debug\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Bane\Desktop\WEB projekat final_v1 - Copy\Server\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\Bane\Desktop\WEB projekat final_v1 - Copy\Server\bin\Debug\netcoreapp3.0\System.Collections.Immutable.dll
+C:\Users\Bane\Desktop\WEB projekat final_v1 - Copy\Server\bin\Debug\netcoreapp3.0\System.ComponentModel.Annotations.dll
+C:\Users\Bane\Desktop\WEB projekat final_v1 - Copy\Server\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Bane\Desktop\WEB projekat final_v1 - Copy\Server\bin\Debug\netcoreapp3.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Bane\Desktop\WEB projekat final_v1 - Copy\Server\bin\Debug\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Bane\Desktop\WEB projekat final_v1 - Copy\Server\bin\Debug\netcoreapp3.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Bane\Desktop\WEB projekat final_v1 - Copy\Server\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+C:\Users\Bane\Desktop\WEB projekat final_v1 - Copy\Server\bin\Debug\netcoreapp3.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Bane\Desktop\WEB projekat final_v1 - Copy\Server\bin\Debug\netcoreapp3.0\System.Security.AccessControl.dll
+C:\Users\Bane\Desktop\WEB projekat final_v1 - Copy\Server\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Bane\Desktop\WEB projekat final_v1 - Copy\Server\bin\Debug\netcoreapp3.0\System.Security.Permissions.dll
+C:\Users\Bane\Desktop\WEB projekat final_v1 - Copy\Server\bin\Debug\netcoreapp3.0\System.Security.Principal.Windows.dll
+C:\Users\Bane\Desktop\WEB projekat final_v1 - Copy\Server\bin\Debug\netcoreapp3.0\System.Text.Encoding.CodePages.dll
+C:\Users\Bane\Desktop\WEB projekat final_v1 - Copy\Server\bin\Debug\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Bane\Desktop\WEB projekat final_v1 - Copy\Server\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Bane\Desktop\WEB projekat final_v1 - Copy\Server\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Bane\Desktop\WEB projekat final_v1 - Copy\Server\bin\Debug\netcoreapp3.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Bane\Desktop\WEB projekat final_v1 - Copy\Server\bin\Debug\netcoreapp3.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Bane\Desktop\WEB projekat final_v1 - Copy\Server\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Bane\Desktop\WEB projekat final_v1 - Copy\Server\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Bane\Desktop\WEB projekat final_v1 - Copy\Server\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Bane\Desktop\WEB projekat final_v1 - Copy\Server\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Bane\Desktop\WEB projekat final_v1 - Copy\Server\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Bane\Desktop\WEB projekat final_v1 - Copy\Server\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Bane\Desktop\WEB projekat final_v1 - Copy\Server\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\Bane\Desktop\WEB projekat final_v1 - Copy\Server\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\Bane\Desktop\WEB projekat final_v1 - Copy\Server\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Bane\Desktop\WEB projekat final_v1 - Copy\Server\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Bane\Desktop\WEB projekat final_v1 - Copy\Server\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Bane\Desktop\WEB projekat final_v1 - Copy\Server\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Bane\Desktop\WEB projekat final_v1 - Copy\Server\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\Bane\Desktop\WEB projekat final_v1 - Copy\Server\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Bane\Desktop\WEB projekat final_v1 - Copy\Server\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Bane\Desktop\WEB projekat final_v1 - Copy\Server\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Bane\Desktop\WEB projekat final_v1 - Copy\Server\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+C:\Users\Bane\Desktop\WEB projekat final_v1 - Copy\Server\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Bane\Desktop\WEB projekat final_v1 - Copy\Server\obj\Debug\netcoreapp3.0\Server.csproj.AssemblyReference.cache
+C:\Users\Bane\Desktop\WEB projekat final_v1 - Copy\Server\obj\Debug\netcoreapp3.0\Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bane\Desktop\WEB projekat final_v1 - Copy\Server\obj\Debug\netcoreapp3.0\Server.AssemblyInfoInputs.cache
+C:\Users\Bane\Desktop\WEB projekat final_v1 - Copy\Server\obj\Debug\netcoreapp3.0\Server.AssemblyInfo.cs
+C:\Users\Bane\Desktop\WEB projekat final_v1 - Copy\Server\obj\Debug\netcoreapp3.0\Server.csproj.CoreCompileInputs.cache
+C:\Users\Bane\Desktop\WEB projekat final_v1 - Copy\Server\obj\Debug\netcoreapp3.0\Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Bane\Desktop\WEB projekat final_v1 - Copy\Server\obj\Debug\netcoreapp3.0\staticwebassets\Server.StaticWebAssets.Manifest.cache
+C:\Users\Bane\Desktop\WEB projekat final_v1 - Copy\Server\obj\Debug\netcoreapp3.0\staticwebassets\Server.StaticWebAssets.xml
+C:\Users\Bane\Desktop\WEB projekat final_v1 - Copy\Server\obj\Debug\netcoreapp3.0\scopedcss\bundle\Server.styles.css
+C:\Users\Bane\Desktop\WEB projekat final_v1 - Copy\Server\obj\Debug\netcoreapp3.0\Server.RazorTargetAssemblyInfo.cache
+C:\Users\Bane\Desktop\WEB projekat final_v1 - Copy\Server\obj\Debug\netcoreapp3.0\Server.csproj.CopyComplete
+C:\Users\Bane\Desktop\WEB projekat final_v1 - Copy\Server\obj\Debug\netcoreapp3.0\Server.dll
+C:\Users\Bane\Desktop\WEB projekat final_v1 - Copy\Server\obj\Debug\netcoreapp3.0\Server.pdb
+C:\Users\Bane\Desktop\WEB projekat final_v1 - Copy\Server\obj\Debug\netcoreapp3.0\Server.genruntimeconfig.cache
