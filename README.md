@@ -1,2 +1,2 @@
 # BioskopApp
-_BioskopApp_ je WEB aplikacija koja animira proces rezervaciju karata za filmove u odgovarajućem bioskopu. Korišćeni su _HTML_, _JavaScript_, _CSS_ i _.NET_ tehnologija. Rađena ja kao projekat iz predmeta _WEB programiranje_ (V semestar).
+_BioskopApp_ is a web application that simulates the ticket reservation process for movies in a specific cinema. The technologies used include _HTML_, _JavaScript_, _CSS_, and _.NET_. This project was created for the Web Programming Course (fifth semester).
